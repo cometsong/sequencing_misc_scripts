@@ -1,0 +1,10 @@
+runid,seqtype,demuxed,cleaned
+A9HFY,16S,None,None
+A9HTH,unk,BMX2,None
+A9VM3,wgs,BMX2,None
+A9WDJ,rnaseq,None,None
+ACHWK,16S,"MPM1,DIAZ",MPM1
+H15WVBGXX,mwgs,HMP2,None
+HB5LAADXX,mwgs,"DIAZ,HMP2,LKPC",ROSE
+HBB8WADXX,wgs,"LKPC,LDSA",ROSE
+HHJVTBGXX,wgs,RNQC,None
